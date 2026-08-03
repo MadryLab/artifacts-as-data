@@ -36,4 +36,4 @@ This workshop will explore questions such as:
 - Which datasets, benchmarks, and evaluation protocols are needed to make progress measurable and reproducible?
 - How can insights from theory, interpretability, neural fields, and AI supply chains strengthen one another?
 
-See the [Call for Papers](/cfp/) for submission tracks and the full list of topics.
+See the [Call for Papers]({{ "/cfp/" | relative_url }}) for submission tracks and the full list of topics.

@@ -27,11 +27,11 @@
       <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
       {% if site.logo %}
       <div class="logo-container">
-        <img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title }}" class="project-name" />
+        <img src="{{ page.image | default: site.logo | relative_url }}" alt="{{ page.title | default: site.title }}" class="project-name" />
       </div>
       {% endif %}
       {% for item in site.navigation %}
-      <a href="{{ item[1] }}" class="btn">{{ item[0] }}</a>
+      <a href="{{ item[1] | relative_url }}" class="btn">{{ item[0] }}</a>
       {% endfor %}
     </header>
 

@@ -1,7 +1,7 @@
 # Weight Space Learning Workshop (WSL)
 
 This is the repository for the web page of our NeurIPS 2026 workshop on
-Weight Space Learning: Neural Network Artifacts as a New Data Modality. Please visit [weight-space-learning.github.io/](https://weight-space-learning.github.io/)
+Weight Space Learning: Neural Network Artifacts as a New Data Modality. Please visit [artifactsasdata.org](https://artifactsasdata.org/)
 for more information.
 
 If you would like to contact us, please email us at: [weightspacelearning@gmail.com](weightspacelearning@gmail.com)
