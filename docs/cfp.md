@@ -6,7 +6,7 @@ permalink: /cfp/
 
 # Important Dates
 
-| **Submission portal** | To be announced |
+| **Submission portal** | [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts) |
 | **Paper submission deadline** | September 1, 2026 (Anywhere on Earth) |
 | **Author notification** | To be announced |
 | **Camera-ready deadline** | To be announced |
@@ -67,7 +67,7 @@ Page limits exclude references and supplementary material. Accepted contribution
 
 # Submission
 
-Submissions will be accepted through OpenReview. The submission link will be posted here when available.
+Submissions will be accepted through the [OpenReview submission portal](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts).
 
 
 ## Submission instructions

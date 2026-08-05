@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-The program below is tentative. The workshop date, location, and local time zone will be announced when confirmed.
+The program below is tentative. The workshop will be held in Paris and remotely; the date and local time zone will be announced when confirmed.
 
 | Time      | Duration | Session Content                                   |
 | --------- | -------- | ------------------------------------------------- |

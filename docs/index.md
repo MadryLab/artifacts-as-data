@@ -8,8 +8,8 @@ layout: default
 
 | **Venue** | NeurIPS 2026 |
 | **Date** | To be announced |
-| **Location** | To be announced |
-| **Submissions** | Extended abstracts and full papers; deadline: September 1, 2026 (Anywhere on Earth) |
+| **Location** | Paris and Remote |
+| **Submissions** | Extended abstracts and full papers via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts); deadline: September 1, 2026 (Anywhere on Earth) |
 
 Machine learning has revolutionized how we learn from scientific data, yet it has rarely turned that same population-level lens on its own products. This workshop aims to close that gap by treating **neural network artifacts as a data modality in their own right**.
 
