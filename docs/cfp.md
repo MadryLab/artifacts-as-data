@@ -8,7 +8,7 @@ permalink: /cfp/
 
 | **Submission portal** | [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts) |
 | **Paper submission deadline** | September 1, 2026 (Anywhere on Earth) |
-| **Author notification** | To be announced |
+| **Author notification** | September 29, 2026 (Anywhere on Earth) |
 | **Camera-ready deadline** | To be announced |
 | **Workshop day** | To be announced |
 
