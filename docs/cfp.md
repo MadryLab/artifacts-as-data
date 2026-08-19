@@ -61,8 +61,8 @@ We invite contributions that treat neural network artifacts—including weights,
 
 We will offer two submission tracks:
 
-- **Extended abstracts (4–6 pages, non-archival):** Early-stage results, position papers, new ideas, negative results, benchmark proposals, and other contributions that can foster discussion in the community.
-- **Full papers (8–12 pages, archival):** Substantiated research contributions that advance the study of neural artifacts and weight-space learning.
+- **Extended abstracts (4–6 pages):** Early-stage results, position papers, new ideas, negative results, benchmark proposals, and other contributions that can foster discussion in the community.
+- **Full papers (8–12 pages):** Substantiated research contributions that advance the study of neural artifacts and weight-space learning.
 
 Page limits exclude references and supplementary material. Accepted contributions will be considered for poster presentations and spotlight talks. Further details will be announced when submissions open.
 
