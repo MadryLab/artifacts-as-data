@@ -70,6 +70,7 @@ Page limits exclude references and supplementary material. Accepted contribution
 
 Submissions will be accepted through the [OpenReview submission portal](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts).
 
+All submissions are non-archival. Authors may choose to make their submission public on OpenReview.
 
 ## Submission instructions
 

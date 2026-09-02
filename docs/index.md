@@ -6,9 +6,9 @@ layout: default
 
 **[Visit the inaugural ICLR 2025 workshop website](https://weight-space-learning.github.io).**
 
-| **Venue** | NeurIPS 2026 |
-| **Date** | To be announced |
-| **Location** | Paris and Remote |
+| **Venue** | NeurIPS 2026 Workshop |
+| **Date** | December 11, 2026 |
+| **Location** | Paris, France |
 | **Submissions** | Extended abstracts and full papers via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts); deadline: ~~September 1, 2026 (Anywhere on Earth)~~ September 9, 2026 (Anywhere on Earth) |
 
 Machine learning has revolutionized how we learn from scientific data, yet it has rarely turned that same population-level lens on its own products. This workshop aims to close that gap by treating **neural network artifacts as a data modality in their own right**.
