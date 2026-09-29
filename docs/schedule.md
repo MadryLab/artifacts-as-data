@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-The program below is tentative. The workshop will be held in Paris and remotely; the date and local time zone will be announced when confirmed.
+The program below is tentative. The workshop will be held on December 13th, 2026, at the Palais des Congrès, room 241, and remotely. All times are local.
 
 | Time      | Duration | Session Content                                   |
 | --------- | -------- | ------------------------------------------------- |

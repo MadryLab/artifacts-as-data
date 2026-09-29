@@ -8,10 +8,10 @@ permalink: /cfp/
 
 | **Submission portal** | [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/NeuralArtifacts) |
 | **Template** | [Download ZIP]({{ "/assets/neurips_2026_artifacts_as_data.zip" | relative_url }}) |
-| **Paper submission deadline** | ~~September 1, 2026 (Anywhere on Earth)~~ September 6, 2026 (Anywhere on Earth) |
+| **Paper submission deadline** | ~~September 1, 2026 (Anywhere on Earth)~~ ~~September 6, 2026 (Anywhere on Earth)~~ — **Submissions are closed.** |
 | **Author notification** | September 29, 2026 (Anywhere on Earth) |
 | **Camera-ready deadline** | To be announced |
-| **Workshop day** | To be announced |
+| **Workshop day** | December 13th, 2026, at the Palais des Congrès, room 241 |
 
 # Call for Papers
 
