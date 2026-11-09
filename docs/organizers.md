@@ -14,24 +14,24 @@ permalink: /organizers/
   </colgroup>
   <tbody>
     <tr>
-      <td><img src="/assets/images/organizers/bo_zhao_rect.jpg" alt="Bo Zhao" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
       <td><img src="/assets/images/organizers/aspen_hopkins_rect.jpg" alt="Aspen Hopkins" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
+      <td><img src="/assets/images/organizers/giorgos_bouritsas_rect.jpg" alt="Giorgos Bouritsas" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
+      <td><img src="/assets/images/organizers/koyena_pal_rect.jpg" alt="Koyena Pal" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://aspen-hopkins.com/">Aspen Hopkins</a></strong> <br> MIT</td>
+      <td><strong><a href="https://gbouritsas.github.io/">Giorgos Bouritsas</a></strong> <br> University of Athens; Archimedes/Athena RC; Visible Machines</td>
+      <td><strong><a href="https://koyenapal.github.io/">Koyena Pal</a></strong> <br> Northeastern University</td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/organizers/bo_zhao_rect.jpg" alt="Bo Zhao" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
       <td><img src="/assets/images/organizers/amil_dravid_rect.jpg" alt="Amil Dravid" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
+      <td><img src="/assets/images/organizers/fabrizio_frasca_rect.jpg" alt="Fabrizio Frasca" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
     </tr>
     <tr>
       <td><strong><a href="https://b-zhao.github.io/">Bo Zhao</a></strong> <br> Harvard University</td>
-      <td><strong><a href="https://aspen-hopkins.com/">Aspen Hopkins</a></strong> <br> MIT</td>
       <td><strong><a href="https://avdravid.github.io/">Amil Dravid</a></strong> <br> UC Berkeley</td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/organizers/koyena_pal_rect.jpg" alt="Koyena Pal" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
-      <td><img src="/assets/images/organizers/fabrizio_frasca_rect.jpg" alt="Fabrizio Frasca" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
-      <td><img src="/assets/images/organizers/giorgos_bouritsas_rect.jpg" alt="Giorgos Bouritsas" style="width:100%; max-width:180px; aspect-ratio:3 / 4; object-fit:cover; border-radius:8px;"></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://koyenapal.github.io/">Koyena Pal</a></strong> <br> Northeastern University</td>
       <td><strong><a href="https://noired.github.io/">Fabrizio Frasca</a></strong> <br> Technion</td>
-      <td><strong><a href="https://gbouritsas.github.io/">Giorgos Bouritsas</a></strong> <br> University of Athens; Archimedes/Athena RC; Visible Machines</td>
     </tr>
   </tbody>
 </table>
